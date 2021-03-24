@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_JAMMMING_API_KEY;
-const redirectUri = "https://friendly-darwin-59ba4d.netlify.app/";
+const redirectUri = "https://friendly-darwin-59ba4d.netlify.app";
 let accessToken;
 
 const Spotify = {
